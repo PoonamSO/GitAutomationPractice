@@ -3,8 +3,18 @@ public static Login{
 	{
 	     System.out.println("Username is"+str+"Password is "+pswd);
 	}
+	public static logout(String str, int pswd){
+	{
+	     System.out.println("Username is"+str+"Password is "+pswd);
+	}
+	public static logout(String str, int pswd){
+	{
+	     System.out.println("Username is"+str+"Password is "+pswd);
+	}
     public static void main(String[] args){
 	     login("ABC",123);
+		 logout("ABC",121);
+		 logout("xyz",345);
 	}
 
 
