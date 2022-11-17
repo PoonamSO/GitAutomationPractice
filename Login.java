@@ -22,6 +22,7 @@ public static Login{
 	     login("ABC",123);
 		 logout("ABC",121);
 		 logout("xyz",345);
+		 logout("vbn",987);
 <<<<<<< HEAD
 		 logout("fgh",789);
 =======
